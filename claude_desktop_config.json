@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "image-analysis": {
+      "command": "python3",
+      "args": ["/Users/anthonyturner/MCPs/image-analysis-server/enhanced_image_analysis_server.py"],
+      "env": {}
+    }
+  }
+}

@@ -1,0 +1,9 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# .gitignore
+.env
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+*.log
